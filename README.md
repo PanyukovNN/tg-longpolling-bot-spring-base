@@ -1,10 +1,9 @@
 # tg-longpolling-bot-spring-base
 
-Base project, from which you can easily start to create your own longpolling telegram bot
+Base project, from which you can easily create your own longpolling telegram bot
 
-### Run bot
+### How to run
 Take a name and a token from <a href="https://t.me/BotFather">Link to BotFather</a>
-
 and set them to properties:
 ```yaml
 bot:
